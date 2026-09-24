@@ -2,7 +2,7 @@ public class PassFail {
     public static void main(String[] args) {
          //       ex:-  if -else
             int age = 16;
-            if (age < 18 ) {
+            if (age >= 18 ) {
                 System.out.println("Adult");
             }
             else {
