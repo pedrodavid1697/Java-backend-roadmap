@@ -79,3 +79,15 @@ int age = int(percentage); // age = 25
 
 ## Why do we write (int) in (int) 99.99?
 -> int use to indicate data type and (int) 99.99 gives 99 decimal values goes away because of narrowing conversion. 
+
+# Day 3
+
+## What did I learn?
+-> Condtitions:- if, if else, else, nested conditions, Multiple conditions. 
+
+## Mulitple conditions includes ?
+-> Conditions with operator to check validations as per condition. 
+
+## Nested Condition means?
+-> If condition within if . 
+
