@@ -102,7 +102,7 @@ System.out.println("4");
 System.out.println("5");
 better to use loops here. 
 
-## 2. for loop?
+## for loop?
 -> For Loop uses for Looping within it has 3 functioning which makes it loop . 
 1. initialization of i 2. condition check 3. Update i to keep value till requirement.
    int i =1; i<=5; i++
