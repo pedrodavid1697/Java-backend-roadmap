@@ -138,4 +138,50 @@ i++;
 ## Mini Challenge
 -> Did a challenge where I wrote code of Even, Odd numbers with Total sum of all numbers. 
 
+# Day 5
+
+## What is Method?
+-> Think of method as reusable block of code that performs a task.  
+
+## Why do we need Methods?
+-> To not use multiple time writing code for printing same pattern, instead can use method with diff. variables. Instead of writing 30 lines of calculation code inside one place better to use diff methodes. 
+
+## Method with Parameter?
+-> Method using parameter for accepting argument. means it can accept values from main method. 
+public void add(int a) {
+}
+      main() {
+      add(25);
+}
+
+## Method with Multiple Parameters?
+-> Method using Multiple parameters for accepting arguments. 
+ex :- public void studentInfo(String name, int age) {
+      
+}
+      main() {
+      studentInfo("David", 25);
+}
+
+## Method with Return values?
+-> Method returning values not like void. void :- doesn't return value. 
+Return :- Returns a values. 
+public static int calculation(int a, int b) {
+         return a+b;
+         }
+         main () {
+         calculation(25, 25);
+         }
+
+## Method with Condition?
+-> Method with conditions like if-else and returns values accordingly. 
+
+## Static in method?
+-> Static doesn't require object creation it can call method without object. 
+
+## public in method?
+-> public is an access modifier, means anyone can access that method without any problem. there are two more access modifiers like privite, protected. 
+
+## () means in method?
+-> parameter of method.
 
