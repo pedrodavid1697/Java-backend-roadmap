@@ -91,3 +91,51 @@ int age = int(percentage); // age = 25
 ## Nested Condition means?
 -> If condition within if . 
 
+# Day 4
+
+##  Why do we need loops?
+-> We can't possibly write code for huge lines so we use loops to reduce that manualy writing. 
+ex :- System.out.println("1");
+System.out.println("2");
+System.out.println("3");
+System.out.println("4");
+System.out.println("5");
+better to use loops here. 
+
+## for loop?
+-> For Loop uses for Looping within it has 3 functioning which makes it loop . 
+1. initialization of i 2. condition check 3. Update i to keep value till requirement.
+   int i =1; i<=5; i++
+   
+## Counting backwards?
+-> Counting Backwards so update part can be modified as per requirement. 
+int i =1; i > =5; i--
+
+## while loop
+-> While Loop is useful when you want to keep repeating when condition is true. 
+like :- i<= 5 
+int i =5;
+while(i<=5){
+System.out.println(i);
+i++;
+}
+
+## do-while loop
+-> Do while is always executes atleast once even though condition matched or not. 
+ex:- 
+int i =1;
+do {
+System.out.println(i);
+i++;
+} while (i<=5);
+
+## Loop + condition
+-> Using Loop with conditions, Basically uses for cases of Even or Odd numbers code and Complex codes. 
+
+## Sum using a loop
+-> We can use loop for summing Numbers. 
+
+## Mini Challenge
+-> Did a challenge where I wrote code of Even, Odd numbers with Total sum of all numbers. 
+
+
