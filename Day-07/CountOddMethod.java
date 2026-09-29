@@ -10,7 +10,6 @@ public class CountOddMethod {
         }
         return countOdd;
     }
-
     public static void main(String[] args) {
 
         int[] numbers = {10, 15, 22, 31, 40, 55, 68, 73};

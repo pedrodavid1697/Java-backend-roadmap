@@ -10,13 +10,11 @@ public class CountEvenMethod {
         }
         return evenCount;
     }
-
     public static void main(String[] args) {
 
         int[] numbers = {10, 15, 22, 31, 40, 55, 68, 73};
 
         int count = countEven(numbers);
         System.out.println("Even numbers: "+ count);
-
     }
 }
