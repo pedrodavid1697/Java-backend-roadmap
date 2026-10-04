@@ -7,7 +7,7 @@ public class FirstNonRepeatingCharacter {
                 return nonRepeat;
             }
         }
-        return '\0'; //special no character found
+        return '\0'; //special -> no character found
     }
 
     public static void main(String[] args) {
@@ -16,4 +16,3 @@ public class FirstNonRepeatingCharacter {
         System.out.println("First non-repeating character: "+findFirstNonRepeatingCharacter(text));
     }
 }
-
