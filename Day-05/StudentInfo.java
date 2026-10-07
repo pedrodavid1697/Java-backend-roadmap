@@ -2,8 +2,8 @@
 
 public class StudentInfo {
 
-    public static void printStudentInfo(String name, int age) {
-        System.out.println("Name: "+name);
+    public static void printStudentInfo(String name1, int age) {
+        System.out.println("Name: "+name1);
         System.out.println("Age: "+age);
     }
 
