@@ -185,3 +185,15 @@ public static int calculation(int a, int b) {
 ## () means in method?
 -> parameter of method.
 
+# Day 16
+## List and ArrayList
+-> Store multiple values, add, remove, update, and retrieve elements.
+
+## Set and HashSet
+-> Store unique values and remove duplicates.
+
+## Map and HashMap
+-> Store key-value pairs, such as employee IDs and employee names.
+
+## Iteration and practical problems
+-> Use loops, iterators, searching, frequency counting, and simple data processing.
